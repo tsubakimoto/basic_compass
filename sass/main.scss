@@ -1,0 +1,10 @@
+@import "compass";
+
+.sample {
+//	@include border-radius(3px);
+//	@include opacity(0.5);
+//	@include box-shadow();
+//	@include box-shadow(0 0 1px #ccc);
+//	@include rotate();
+	@include clearfix;
+}
