@@ -1,4 +1,19 @@
-/* line 5, ../sass/main.scss */
-.sample {
-  width: 36px;
+/* line 58, icons/*.png */
+.icons-sprite, .icons-add, .icons-archive, .icons-audio_disk {
+  background: url('/images/icons-se2cc290efa.png') no-repeat;
+}
+
+/* line 60, C:/Program Files (x86)/Prepros/ruby_gems/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icons-add {
+  background-position: 0 -48px;
+}
+
+/* line 60, C:/Program Files (x86)/Prepros/ruby_gems/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icons-archive {
+  background-position: 0 -24px;
+}
+
+/* line 60, C:/Program Files (x86)/Prepros/ruby_gems/gems/compass-0.12.2/frameworks/compass/stylesheets/compass/utilities/sprites/_base.scss */
+.icons-audio_disk {
+  background-position: 0 0;
 }

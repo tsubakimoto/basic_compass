@@ -1,7 +1,4 @@
 @import "compass";
 
-$padding: 10px;
-
-.sample {
-	width: image-width("icon1.png") + ($padding * 2);
-}
+@import "icons/*.png";
+@include all-icons-sprites;
